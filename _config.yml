@@ -1,2 +1,10 @@
 remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
+
+titel: "Artem [tesla33io]"
+description: "I'm a self-taught programmer passionate about open-source software and interested in embedded development and cyber security."
+
+header_pages:
+  - index.md
+
+footer: "Banging your head against a wall for one hour burns 150 calories"
